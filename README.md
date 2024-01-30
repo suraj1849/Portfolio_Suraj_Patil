@@ -10,6 +10,9 @@ My focus is on creating seamless and efficient web applications that deliver an 
 ## Technologies Used
 
 Here are some of the technologies and tools I frequently use:
+- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+)
+- **Other Tools:** Git, Webpack, Babel
+
 
 
 ## How to Run Locally
