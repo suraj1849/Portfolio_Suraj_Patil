@@ -6,7 +6,7 @@ Welcome to my personal portfolio! 👋
 
 I'm Suraj Patil, a passionate Frontend Developer with expertise in the MERN (MongoDB, Express.js, React.js, Node.js) stack. 
 My focus is on creating seamless and efficient web applications that deliver an exceptional user experience.
-This Portfolio shows my skilleset.
+This Portfolio shows my skillset
 
 ## Technologies Used
 
